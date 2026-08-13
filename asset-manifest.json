@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RC-Hunter/static/css/main.545ea064.css",
+    "main.js": "/RC-Hunter/static/js/main.08257353.js",
+    "index.html": "/RC-Hunter/index.html",
+    "main.545ea064.css.map": "/RC-Hunter/static/css/main.545ea064.css.map",
+    "main.08257353.js.map": "/RC-Hunter/static/js/main.08257353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545ea064.css",
+    "static/js/main.08257353.js"
+  ]
+}
